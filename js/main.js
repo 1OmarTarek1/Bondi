@@ -1,7 +1,7 @@
 
 
 //Make Browser on load to top
-// window.scrollTo({ top: 0, behavior: 'auto' });
+window.scrollTo({ top: 0, behavior: 'auto' });
 
 
 

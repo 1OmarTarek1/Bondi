@@ -428,6 +428,8 @@ a {
 /*  START UP BUTTON  */
 
 .UpButton{
+    width: fit-content;
+    height: fit-content;
     position: fixed;
     bottom: 3%;
     left: 50%;
@@ -439,7 +441,6 @@ a {
     cursor: pointer;
     font-size: 45px;
     border-radius: 50%;
-    background-color: var(--yellow-color);
     opacity: 0;
     transition: all .4s;
 }
