@@ -428,8 +428,6 @@ a {
 /*  START UP BUTTON  */
 
 .UpButton{
-    width: fit-content;
-    height: fit-content;
     position: fixed;
     bottom: 3%;
     left: 50%;
